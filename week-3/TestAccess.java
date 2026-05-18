@@ -14,8 +14,8 @@ class TestAccess {
 
     public static void main(String[] args) {
 
-        TestAccess obj = new TestAccess();
+        TestAccess ta = new TestAccess();
 
-        obj.display();
+        ta.display();
     }
 }
